@@ -3,6 +3,7 @@
 
 /* font-family: 'Roboto', sans-serif; */
 /* font-family: 'Chivo', sans-serif; */
+
 html, body{
   font-family: 'Roboto', sans-serif;
  
@@ -201,6 +202,3 @@ button.close {
   padding-top: .6rem;
 }
 
-.icon-counter {
-  color: black;
-}
